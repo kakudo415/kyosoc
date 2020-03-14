@@ -19,7 +19,7 @@ U 1 1 5E6B9ADA
 P 5100 5250
 F 0 "U1" H 5100 5300 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 5100 5200 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 5100 5250 50  0001 C CIN
+F 2 "footprint:TQFP44" H 5100 5250 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 5100 5250 50  0001 C CNN
 	1    5100 5250
 	1    0    0    -1  
